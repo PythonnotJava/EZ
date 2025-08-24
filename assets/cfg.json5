@@ -1,0 +1,39 @@
+{
+    shadow: {
+        open: true,
+        rgba: [
+            255,
+            0,
+            0,
+            120,
+        ],
+    },
+    MAXITEMCOUNTS: 15,
+    PURETEXTFONT: {
+        pointSize: 12,
+    },
+    SINGLEFILEPATHFONT: {
+        pointSize: 12,
+    },
+    MULTEFILEPATHFONT: {
+        pointSize: 10,
+    },
+    PIXMAPFONT: {
+        pointSize: 20,
+    },
+    CARDFIXHEIGHT: 80,
+    TOTALFILESMAXSUPPORT: 1073741824,
+    SupportImageType: [
+        "png",
+        "jpeg",
+        "jpg",
+        "gif",
+        "bmp",
+        "webp",
+    ],
+    ItemCardStyleQSS: "background: white;border-radius: 10px",
+    shortcut: [
+        "Option",
+        "V",
+    ],
+}
